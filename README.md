@@ -1,2 +1,2 @@
 # repositoryproject
-GitHub7 clone, push, pool training repository
+GitHub7 clone, push, pull training repository
